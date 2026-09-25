@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # 👁️ WARDOGS Visual Assistant — Tactical Overlay & HUD Tools
